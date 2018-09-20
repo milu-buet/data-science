@@ -1,0 +1,19 @@
+# 5 points, 2 for effort. Maximum attempts: 1.
+
+def foo(L):
+	o = []
+	for i in range(len(L)):
+		if L[i] % 2 == 0:
+			o.append(L[i] * L[i])
+	return o
+
+
+Question: what does foo do?
+
+A.	return an empty list.
+B.	return a list of even numbers of even numbers of the input list.
+C.	return a list of squares of even numbers of the input list.
+D. 	return the square of the first even number of the input list.
+
+
+ANSWER: C

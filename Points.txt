@@ -1,0 +1,6 @@
+Total points: 22
+2018-09-05	5	analyze_admission
+2018-09-05	5	read_file
+2018-09-05	5	counting_words
+2018-08-29	5	ex1
+2018-08-29	2	ex2

@@ -1,0 +1,11 @@
+# 5 points, 2 for effort. Maximum attempts: 1.
+
+What is range(10)?
+
+A. A list of 0, 1, 2, ..., 9
+B. Something similar to a list containing 0, 1, ..., 9
+C. A list of 0, 1, 2, ...., 10
+B. Something similar to a list containing 0, 1, ..., 10
+
+ANSWER:A
+
