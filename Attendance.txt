@@ -1,4 +1,5 @@
 Your attendance was taken on these dates:
+2018-10-08
 2018-10-03
 2018-10-01
 2018-09-26
