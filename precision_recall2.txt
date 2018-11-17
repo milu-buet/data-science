@@ -1,0 +1,14 @@
+# 5 points, 2 for effort. Maximum attempts: 1.
+
+400 people are suspected to be infected with a virus. Through bloodwork, a new medical procedure predicted that 320 of these people were infected.
+
+In really, only 280 of these 320 were actually infected.  Further, out of the 80 people who were thought not to be infected, 30 of them were infected.  The procedure failed to detect them.
+
+What is the recall of this procedure?
+
+A. 0.88
+B. 0.90
+C. 0.80
+D. 0.97
+
+ANSWER: B

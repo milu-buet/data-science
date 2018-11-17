@@ -1,4 +1,8 @@
-Total points: 22
+Total points: 42
+2018-11-07	5	precision_recall2
+2018-11-07	5	precision_recall
+2018-10-03	5	housing2
+2018-10-03	5	housing1
 2018-09-05	5	analyze_admission
 2018-09-05	5	read_file
 2018-09-05	5	counting_words
